@@ -21,6 +21,10 @@ En esta página de documentación, puedes descargar el programa "Flujo de Trabaj
 
 También encontrarás el manual de usuarios y usuarias para cada una de sus funciones, respuestas a las preguntas más frecuentes e información adicional sobre los flujos de trabajo que se han utilizado como base para el diseño del programa.
 
-{{\< button size="large" relref="2-uso/inicio/" >}} Inicio {{\< /button >}}
+\[!\[Button Shield]]\[Shield]
+
+\[Shield]: content/2 uso/\_index.md
+
+{{\< button size="large" relref="2-uso/\_index.md" >}} Inicio {{\< /button >}}
 
 {{\< button size="large" relref="flujos" >}} Flujos <i class="arrow right"></i>{{\< /button >}}
