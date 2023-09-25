@@ -1,0 +1,17 @@
+baseURL = "https://documentacionrawrr.netlify.app"
+disablePathToLower = true
+enableGitInfo = true
+geekdocMenuBundle = true
+pluralizeListTitles = false
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+title = "Documentación de RAWRR"
+[markup.goldmark.renderer]
+unsafe = true
+[markup.tableOfContents]
+endLevel = 9
+startLevel = 1
+[param]
+geekdocLogo = "logo_rawrr_v_yellow.png"
+geekdocMenuBundle = true
+geekdocToC = 3

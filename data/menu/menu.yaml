@@ -1,0 +1,22 @@
+---
+main:
+  - name: Uso
+    ref: "/uso"
+    icon: "notification"
+    sub:
+      - name: Inicio
+        ref: "/uso/inicio"
+      - name: Instalación
+        ref: "/uso/instalacion"
+      - name: Requerimientos
+        ref: "/uso/requerimientos"
+  - name: Introducción
+    ref: "/introduccion"
+    sub:
+      - name: Rawrr
+        ref: "/introduccion/rawrr" 
+  - name: Functions
+    ref: "/functions"
+    sub:
+      - name: Function 1
+        ref: "/functions/function1"
