@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = ""tinacms build && hugo \
+command = """tinacms build && hugo \
   --config config.toml \
   --themesDir themes \
   --theme hugo-geekdoc """
