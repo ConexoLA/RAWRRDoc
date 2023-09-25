@@ -6,7 +6,7 @@ command = """tinacms build && hugo \
   --theme hugo-geekdoc """
 
 [build.environment]
-HUGO_VERSION = "0.82.1"
+HUGO_VERSION = "0.118.1"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 
