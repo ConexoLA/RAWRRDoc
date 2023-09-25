@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "tinacms dev -c \"hugo server -D --config config.toml --themesDir themes --theme hugo-geekdoc -p 1313\"",
-    "build": "tinacms build && hugo server -D --config config.toml --themesDir themes --theme hugo-geekdoc -p 1313"
+    "dev": "tinacms dev -c \"hugo server -D --config config.toml --themesDir themes --theme hugo-geekdoc\"",
+    "build": "tinacms build && hugo server -D --config config.toml --themesDir themes --theme hugo-geekdoc"
   },
   "repository": {
     "type": "git",
