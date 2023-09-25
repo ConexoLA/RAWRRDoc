@@ -1,4 +1,4 @@
-baseURL = "https://rawrrdocs.netlify.app"
+baseURL = "https://rawrrdocs2.netlify.app"
 disablePathToLower = true
 googleAnalytics = "G-NYL7KWC1KK"
 enableGitInfo = true
