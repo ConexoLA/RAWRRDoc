@@ -98,4 +98,12 @@ export default defineConfig({
       },
     ],
   },
+  search: {
+    tina: {
+      indexerToken: '20dec594e422fe1e56e7bbe3d2331f2ba2e18885',
+      stopwordLanguages: ['eng', 'es']
+    },
+    indexBatchSize: 100,
+    maxSearchIndexFieldLength: 100
+  },
 });
