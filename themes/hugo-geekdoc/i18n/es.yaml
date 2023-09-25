@@ -1,0 +1,48 @@
+---
+edit_page: Editar página
+site_title: Documentación de RAWRR
+nav_navigation: Navegación
+nav_tags: Tags
+nav_more: Más
+nav_top: Regresar al comienzo
+
+form_placeholder_search: Buscar
+
+error_page_title: Estás perdido? No te preocupes
+error_message_title: Perdido?
+error_message_code: Error 404
+error_message_text: >
+  Parece que el contenido que buscas no está disponible. No te preocupes, podemos regrsarte a la <a class="gdoc-error__link" href="{{ . }}">página de inicio</a>.
+
+button_toggle_dark: Toggle Oscuro/Claro/Auto modo
+button_nav_open: Abrir Navegación
+button_nav_close: Cerrar Navegación
+button_menu_open: Abrir barra de Menú
+button_menu_close: Cerrar barra de Menú
+button_homepage: Regresar a página de inicio
+
+title_anchor_prefix: "Anclar a:"
+
+posts_read_more: Leer artículo completo
+posts_read_time:
+  one: "Un minuto para leer"
+  other: "{{ . }} minutos para leer"
+posts_update_prefix: Actualizado el
+posts_count:
+  one: "Un artículo"
+  other: "{{ . }} artículos"
+posts_tagged_with: Todos los artículos marcados '{{ . }}'
+
+footer_build_with: >
+  Construído por <a href="https://conexo.org" class="gdoc-footer__link">Conexo</a> con <a href="https://gohugo.io/" class="gdoc-footer__link">Hugo</a> y
+  <svg class="gdoc-icon gdoc_heart"><use xlink:href="#gdoc_heart"></use></svg>
+footer_legal_notice: Aviso Legal
+footer_privacy_policy: Política de privacidad
+footer_content_license_prefix: >
+  Contenido bajo licencia
+
+language_switch_no_tranlation_prefix: "Página no traducida:"
+
+propertylist_required: requerido
+propertylist_optional: opcional
+propertylist_default: default

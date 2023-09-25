@@ -1,10 +1,14 @@
 ---
 more:
-  - name: Última versión
+  - name: 
+      en: Releases
+      es: Última versión
     ref: "https://github.com/ConexoLA/RAWRR/releases/latest"
     external: true
     icon: "download"
-  - name: "Ver código fuente"
+  - name: 
+      en: "View Source"
+      es: "Ver código fuente"
     ref: "https://github.com/ConexoLA/RAWRR"
     external: true
     icon: "github"

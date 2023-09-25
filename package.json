@@ -1,21 +1,26 @@
 {
-  "name": "docs",
+  "name": "rawrrdoc",
   "version": "1.0.0",
-  "description": "",
+  "description": "Rawrr Documentation multilingual with Tina",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "tinacms dev -c \"hugo server -D --config config.toml --themesDir themes --theme hugo-geekdoc -p 1313\"",
     "build": "tinacms build && hugo server -D --config config.toml --themesDir themes --theme hugo-geekdoc -p 1313"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConexoLA/RAWRRDoc.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "@tinacms/cli": "^1.5.21",
-    "tinacms": "^1.5.12"
+  "bugs": {
+    "url": "https://github.com/ConexoLA/RAWRRDoc/issues"
   },
-  "devDependencies": {
-    "@types/node": "^20.3.2"
+  "homepage": "https://github.com/ConexoLA/RAWRRDoc#readme",
+  "dependencies": {
+    "@tinacms/cli": "^1.5.29",
+    "tinacms": "^1.5.20"
   }
 }
