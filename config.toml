@@ -1,4 +1,4 @@
-baseURL = "https://documentacionrawrr.netlify.app"
+baseURL = "https://rawrrdocs2.netlify.app"
 disablePathToLower = true
 enableGitInfo = true
 geekdocMenuBundle = true

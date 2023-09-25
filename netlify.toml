@@ -11,9 +11,9 @@ HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 
 ## This rule redirects to an external API, signing requests with a secret
-[[redirects]]
-  from = "/"
-  to = "https://rawrrdocs.conexo.org/es"
-  status = 301
-  force = true # COMMENT: ensure that we always redirect
-  headers = {X-From = "Netlify"}
+##[[redirects]]
+##  from = "/"
+##  to = "https://rawrrdocs.conexo.org/es"
+##  status = 301
+##  force = true # COMMENT: ensure that we always redirect
+##  headers = {X-From = "Netlify"}
